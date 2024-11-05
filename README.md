@@ -65,6 +65,24 @@ Group by product
 order by product_total_sales desc
 ```
 
+![Sales Data base](https://github.com/user-attachments/assets/62d7d4f7-d0a7-4815-aee0-da9404dca8f9)
+
+![Highest Selling Product by Total Sales value](https://github.com/user-attachments/assets/11f1267f-9633-4d30-b912-9234fa1f2485)
+
+![Monthly sales Total for the current year](https://github.com/user-attachments/assets/59da29fe-8cef-4139-8fdc-a54852f835d8)
+
+![Number of Sales transaction in each Region](https://github.com/user-attachments/assets/753ec9f7-256c-4e68-ad5a-94e89db4d2f8)
+
+![Percentage of Total Sales contributed by each Region](https://github.com/user-attachments/assets/8c024b0e-f239-4a8d-a5e0-949e70f5b264)
+
+![Products with no Sales in the last quarter](https://github.com/user-attachments/assets/322022d2-d37d-465f-8863-207c947f438d)
+
+![Top 5 Customers by Total Purchase Amount](https://github.com/user-attachments/assets/70a05c51-464a-43d3-8d3e-a413e4a46aa8)
+
+![Total Revenue per Product](https://github.com/user-attachments/assets/54e98538-31cf-4b3d-8c19-c923206d8ad4)
+
+![Total sales for each Product Category](https://github.com/user-attachments/assets/0c8a88a0-bb86-4859-8bca-06b7f12b5482)
+
 ---
 ### Data Visualization
 - Retrieve the total sales for each product category.
