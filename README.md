@@ -1,8 +1,22 @@
 # LITA_-Class-Project-Sales-Data-
 
 ### Project Title: Sales Data Analysis
+
+[Project Overview](#project-overview)
+
+[Data Sources](#data-sources)
+
+[Tools Used](#tools-used)
+
+[Data Cleaning and Preparations](#data-cleaning-and-preparations)
+
+[Exploratory Data Analysis](#exploratory-data-analysis)
+
+[Data Visualization](#data-visualization)
+
 ---
 ### Project Overview
+
 This Data Analysis aims at uncovering insights such as top-selling products, regional performances and monthly sales trends of a retail store
 by analyzing the sales performaance from the data.
 ---
