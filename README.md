@@ -47,9 +47,24 @@ In this phase, I performed the following actions;
 ### Exploratory Data Analysis
 This involved the exploration of the data to answer some questions such as;
 
-- what are the top-selling Products
-- What are the regional performances
-- What are the Monthly Sales trends
+- what are the top-selling Products?
+- What are the regional performances?
+- What are the Monthly Sales trends?
+  
+[LITA Capstone Project (Pivot Table).xlsx](https://github.com/user-attachments/files/17637541/LITA.Capstone.Project.Pivot.Table.xlsx)
+
+### Data Analysis
+---
+This is where I included some basic lines of queries used during my analysis:
+```SQL
+SELECT product, sum (total_sales) as product_total_sales from [dbo].[Capstone Sales Data]
+Group by product
+
+select product, sum (Total_sales) as product_total_sales from [dbo].[Capstone Sales Data]
+Group by product
+order by product_total_sales desc
+```
+
 ---
 ### Data Visualization
 - Retrieve the total sales for each product category.
@@ -58,3 +73,6 @@ This involved the exploration of the data to answer some questions such as;
 - Sales overview
 - Top-performing products
 - Regional breakdowns
+
+![Uploading CHARTS (SALES DATA).PNG…]()
+
