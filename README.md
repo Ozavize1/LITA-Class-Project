@@ -45,4 +45,5 @@ This involved the exploration of the data to answer some questions such as;
 - Top-performing products
 - Regional breakdowns
 
+![POWER BI (SALES DATA)](https://github.com/user-attachments/assets/8686f9dc-7942-4d8b-b4da-0cb7b2d36866)
 
