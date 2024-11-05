@@ -43,6 +43,6 @@ This involved the exploration of the data to answer some questions such as;
 - Find the highest-selling product by total sales value.
 - Sales overview
 - Top-performing products
-- Regional breakdowns.
+- Regional breakdowns
 
 
