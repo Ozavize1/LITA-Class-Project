@@ -33,6 +33,11 @@ In this phase, I performed the following actions;
 ### Exploratory Data Analysis
 This involved the exploration of the data to answer some questions such as;
 
+- what are the top-selling Products
+- What are the regional performances
+- What are the Monthly Sales trends
+---
+### Data Visualization
 - Retrieve the total sales for each product category.
 - Find the number of sales transactions in each region.
 - Find the highest-selling product by total sales value.
@@ -41,6 +46,5 @@ This involved the exploration of the data to answer some questions such as;
 - Find the top 5 customers by total purchase amount.
 - Calculate the percentage of total sales contributed by each region.
 - Identify products with no sales in the last quarter.
-
 
 
