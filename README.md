@@ -92,5 +92,5 @@ order by product_total_sales desc
 - Top-performing products
 - Regional breakdowns
 
-![Uploading CHARTS (SALES DATA).PNG…]()
 
+![CHARTS (SALES DATA)](https://github.com/user-attachments/assets/d0f7d2e0-9763-45ae-8c14-e1638be50700)
