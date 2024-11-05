@@ -24,3 +24,23 @@ The primary source of Data used for this project is a LITA Capstone dataset.xlsx
   3. Visualization of Data to gain insights.
      
 - Github for Portfolio Building.
+
+### Data Cleaning and Preparations
+In this phase, I performed the following actions;
+1. Data loading and Inspection
+2. Data Cleaning and Formatting
+
+### Exploratory Data Analysis
+This involved the exploration of the data to answer some questions such as;
+
+- Retrieve the total sales for each product category.
+- Find the number of sales transactions in each region.
+- Find the highest-selling product by total sales value.
+- Calculate total revenue per product.
+- Calculate monthly sales totals for the current year.
+- Find the top 5 customers by total purchase amount.
+- Calculate the percentage of total sales contributed by each region.
+- Identify products with no sales in the last quarter.
+
+
+
